@@ -1,0 +1,12 @@
+@media (max-width: 460px) {
+    .image-container img {
+        width: 100%;
+        height: auto;
+      }
+
+      .team-container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+     
+    }
