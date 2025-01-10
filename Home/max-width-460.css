@@ -1,0 +1,36 @@
+@media (max-width: 460px) {
+    .hero-content h1 {
+        font-size: 1.5rem;
+      }
+    
+      .hero-content p {
+        font-size: 0.9rem;
+      }
+
+      .facts-section .facts-container {
+        grid-template-columns: 1fr;
+    }
+
+    .deatils-of-contact{
+      display: flex;
+      align-items: center;
+    
+    }
+
+   .deatils-of-contact .contact-item {
+      display: flex;
+      align-items: center;
+    
+}
+
+.how-to-contact .contact-btn{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: fit-content;
+  margin: 0 auto;
+  margin-top: 10px;
+  text-align: center;
+}
+ 
+}

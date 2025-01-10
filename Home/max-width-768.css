@@ -1,0 +1,103 @@
+@media (max-width: 768px) {
+    /* .header {
+        flex-direction: column;
+        align-items: center;
+    } */
+
+    nav ul{
+      padding-left: 0px;
+
+     }
+
+
+    .contact-info {
+        gap: 10px;
+        text-align: center;
+    }
+
+    .btn {
+        margin-top: 20px;
+    }
+
+    .hero-content h1 {
+        font-size: 2rem;
+      }
+    
+      .hero-content p {
+        font-size: 1rem;
+      }
+    
+
+
+      .testimonial-container {
+        flex-direction: column;
+        align-items: center;
+      }
+    
+      .testimonial {
+        max-width: 100%;
+      }
+
+
+      .teacher-container {
+        flex-direction: column;
+        align-items: center;
+      }
+    
+      .teacher {
+        width: 100%;
+        max-width: 300px;
+      }
+
+
+      .form-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .form-group {
+        width: 100%;
+    }
+
+
+    .deatils-of-contact {
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+  
+    hr {
+      display: none;
+    }
+  
+    .contact-item {
+      margin-bottom: 20px;
+    }
+
+    .welcome-melody {
+      display: flex;
+      flex-direction: column;
+    
+    }
+
+    .welcome-melody img{
+      width: 70%;
+      margin: 0 auto;
+    }
+
+    .welcome-melody .content{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .contact .form-row{
+      padding: 10px;
+  }
+
+    /* .dark-mode-btn button{
+      border: 0;
+      
+    } */
+ }
+    
