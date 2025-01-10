@@ -1,0 +1,40 @@
+@media (max-width: 768px) {
+  nav ul{
+    padding-left: 0px;
+
+   }
+
+    .facts-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .featured-music-classes{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10% 20%;
+    }
+    .featured-music-classes .music-class-content{
+        padding: 10% 20%;
+    }
+
+    .instrument{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .deatils-of-contact {
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+      }
+    
+      hr {
+        display: none;
+      }
+    
+      .contact-item {
+        margin-bottom: 20px;
+      }
+}

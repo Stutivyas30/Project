@@ -1,0 +1,22 @@
+@media(max-width: 460px){
+    
+    .who-we-are .team-container {
+        grid-template-columns: 1fr;
+      }
+    
+      .who-we-are h1 {
+        font-size: 1.5rem;
+      }
+    
+       .team-member .overlay h3 {
+        font-size: 1rem;
+      }
+    
+      .team-member .overlay p {
+        font-size: 0.8rem;
+      }
+
+      .footer-section-blog{
+       margin: 0 auto;
+      }
+}

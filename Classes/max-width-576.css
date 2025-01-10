@@ -1,0 +1,15 @@
+@media (max-width: 576px) {
+    .facts-section .facts-container {
+        grid-template-columns: 1fr;
+    }
+
+    /* nav ul {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+
+    nav li {
+        display: inline-block;
+    } */
+}

@@ -1,0 +1,23 @@
+
+@media screen and (max-width: 460px) {
+    /* nav ul {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+
+    nav li {
+        display: inline-block;
+    } */
+
+    .how-to-contact .contact-btn{
+        display: flex;
+        flex-direction: column;
+        width: fit-content;
+        margin: 0 auto;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    
+}

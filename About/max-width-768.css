@@ -1,0 +1,47 @@
+@media (max-width: 768px){
+
+  nav ul{
+    padding-left: 0px;
+
+   }
+
+.overview{
+    margin: 0 auto;
+}
+
+.overview img{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.timeline-event {
+    flex-direction: column;
+  }
+
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+
+  .content {
+    padding: 15px;
+  }
+
+  .content h3 {
+    font-size: 1.3rem;
+  }
+
+  .team-container {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+
+  .latest-events img{
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  .date-content{
+    margin: 0 auto;
+  }
+}

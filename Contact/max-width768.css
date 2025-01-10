@@ -1,0 +1,50 @@
+@media (max-width: 768px) {
+    /* .header {
+        flex-direction: column;
+        align-items: center;
+    } */
+
+     nav ul{
+      padding-left: 0px;
+
+     }
+
+    .contact-info {
+        gap: 10px;
+        text-align: center;
+    }
+
+    .btn {
+        margin-top: 20px;
+    }
+
+    .form-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .form-group {
+        width: 100%;
+    }
+
+
+    .deatils-of-contact {
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+  
+    hr {
+      display: none;
+    }
+  
+    .contact-item {
+      margin-bottom: 20px;
+    }
+
+    .contact .form-row{
+      padding: 20px;
+  }
+
+  }
+    
